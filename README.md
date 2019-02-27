@@ -1,3 +1,13 @@
+# React Interview
+
+Hello there! This is Code Hangar's React Developer interview. If you are interested in working with us, follow the directions below!
+
+##What to Do
+
+1. Clone and run this project locally
+2. Use the rendered interface to unlock your next steps.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
